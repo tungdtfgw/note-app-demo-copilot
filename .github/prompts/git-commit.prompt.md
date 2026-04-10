@@ -1,7 +1,7 @@
 ---
 description: 'Stage and commit with a conventional commit message'
 agent: 'agent'
-tools: ['terminal']
+tools: ['runInTerminal']
 ---
 # Git Commit
 

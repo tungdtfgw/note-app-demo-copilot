@@ -1,7 +1,7 @@
 ---
 description: 'Create a new branch with naming convention'
 agent: 'agent'
-tools: ['terminal']
+tools: ['runInTerminal']
 argument-hint: 'short description of the branch purpose'
 ---
 # Git Branch

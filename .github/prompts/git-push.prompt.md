@@ -1,7 +1,7 @@
 ---
 description: 'Push current branch to remote'
 agent: 'agent'
-tools: ['terminal']
+tools: ['runInTerminal']
 ---
 # Git Push
 

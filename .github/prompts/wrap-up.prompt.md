@@ -1,7 +1,7 @@
 ---
 description: 'Summarize session changes and update AGENTS.md'
 agent: 'agent'
-tools: ['terminal', 'search/codebase', 'read', 'edit']
+tools: ['runInTerminal', 'search/codebase', 'read', 'edit']
 ---
 # Wrap Up Session
 

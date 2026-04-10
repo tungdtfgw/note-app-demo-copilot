@@ -1,7 +1,7 @@
 ---
 description: 'Merge a branch into the current branch'
 agent: 'agent'
-tools: ['terminal']
+tools: ['runInTerminal']
 argument-hint: 'source branch to merge from'
 ---
 # Git Merge

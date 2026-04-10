@@ -1,7 +1,7 @@
 ---
 description: 'Initialize a new project from this template'
 agent: 'agent'
-tools: ['terminal']
+tools: ['runInTerminal']
 argument-hint: 'remote repo URL (e.g. git@github.com:user/repo.git)'
 ---
 # New Project from Template

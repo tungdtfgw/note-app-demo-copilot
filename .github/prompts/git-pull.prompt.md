@@ -1,7 +1,7 @@
 ---
 description: 'Pull latest changes with rebase'
 agent: 'agent'
-tools: ['terminal']
+tools: ['runInTerminal']
 ---
 # Git Pull
 

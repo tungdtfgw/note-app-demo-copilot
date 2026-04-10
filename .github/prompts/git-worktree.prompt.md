@@ -1,7 +1,7 @@
 ---
 description: 'Add a git worktree for parallel work'
 agent: 'agent'
-tools: ['terminal']
+tools: ['runInTerminal']
 argument-hint: 'branch name for the worktree'
 ---
 # Git Worktree
